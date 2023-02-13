@@ -1,0 +1,7 @@
+django
+pandas
+djangorestframework
+request
+pymysql
+django-cors-headers
+celery
